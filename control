@@ -1,0 +1,9 @@
+Package: com.foxnine.hidepangu
+Name: HidePangu
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide Pangu jailbreak app
+Maintainer: Benji Vos
+Author: Benji Vos
+Section: Tweaks
